@@ -1,0 +1,9 @@
+.circus{
+    width: 100%;
+    overflow: auto;
+}
+.circus div{
+    width: 24%;
+    float:left;
+
+}
